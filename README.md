@@ -8,4 +8,4 @@ Clone this template to start any projects.
 
 The command that you will run to clone this repo is: 
 
-```npx tiged BaileyARobinson/my-react-vite-template#main <new-project-name>```
+```npx tiged BaileyARobinson/my-react-vite-template#main <new-project-name>```# my-react-vite-template
