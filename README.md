@@ -1,8 +1,11 @@
-# React + Vite
+#My React Vite Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This code is a template for working with Vite and React. It can be copied to start any an all projects. 
 
-Currently, two official plugins are available:
+Clone this template to start any projects. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#How to clone 
+
+The command that you will run to clone this repo is: 
+
+```npx tiged BaileyARobinson/my-react-vite-template#main <new-project-name>```
